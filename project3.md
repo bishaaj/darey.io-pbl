@@ -3,6 +3,7 @@
 ## Project 3 - MERN STACK IMPLEMENTATION
 
 ## Introduction
+MERN stack is another combination of open source tools within web application and software management. MERN uses combination of database, espress js, react and node js. this make it one of the most sought after stack as it enables building faster and reliable web applications and offer end to end development.
 
 ## Step 1 – BACKEND CONFIGURATION
 
