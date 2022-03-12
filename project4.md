@@ -1,5 +1,5 @@
-
-# PROJECT 4 - MEAN STACK DEPLOYMENT TO UBUNTU IN AWS
+# STEP 10
+## PROJECT 4 - MEAN STACK DEPLOYMENT TO UBUNTU IN AWS
 
 ## Step 0
 Configuring ec2-instance and connecting via aws-CLI console
