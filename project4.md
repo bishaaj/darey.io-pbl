@@ -138,6 +138,8 @@ My webpage display info
 
 ![web1](https://user-images.githubusercontent.com/34573768/158016902-044fab26-5788-4738-a8ec-63bb0af15667.png)
 
+![web2](https://user-images.githubusercontent.com/34573768/158017638-48ef0fe3-b2b7-426a-ac6e-915bd72a64b4.png)
+
 ## Completed
 
 
