@@ -49,3 +49,12 @@ check for users details `ls -l /home/` (reveals user names)
  
 connect as one of the user `ssh + userName@publicIp` (it should connect successfully)
 ![dev3](https://user-images.githubusercontent.com/34573768/158427336-41ee9aaf-8e44-4903-833c-c8d9f8bfebbb.png)
+
+# NB
+I am unable to upload the recording video, is there any option for submition?
+
+## Takeaway
+This project stressed and took me lots of time to complete. It reminds me that i have a lot to do in linux command usage execution and also that there many ways to get work done but understanding is the key. Despite watching the project video numerous time, attending blocker session because of it, is still did not get it right until David(Admin) and Gabriel took their time out to help me.
+
+## Appreciation
+Big thank you to David(Admin) and Gabriel for sharing their precious time and knowledge with me. Thank you so much.
