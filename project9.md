@@ -30,3 +30,7 @@ I entered jenkins server public ipaddress http://18.170.43.156:8080/ in order to
 ![jenkins2](https://user-images.githubusercontent.com/34573768/160195415-6e56f548-d798-4cd3-982f-eaa3e91a04d8.jpg)
 
 ![jenkins3](https://user-images.githubusercontent.com/34573768/160195424-dd3969cc-2191-4603-8483-83cdcc3f5043.jpg)
+
+
+
+## TAKEAWAY
