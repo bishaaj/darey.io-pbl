@@ -86,11 +86,12 @@ I updated my apache2 load balancer config file by changing my webserver 1 & 2 pr
 
 "BalancerMember http://Web2:80 loadfactor=5 timeout=1"
 
-Last command to check if the domain name resolution is working `curl http://Web1`
+Last command to check if the domain name resolution is working `curl http://Web1` and `curl http://Web2`
 ![curl1](https://user-images.githubusercontent.com/34573768/160078202-b5ba682e-4fa1-48dc-96c7-f17b5a95a97d.jpg)
 
 ![image](https://user-images.githubusercontent.com/34573768/160182165-096030f6-5645-410c-87d0-98f90e91cde0.png)
 
-
-
 ## TAKEAWAY
+Before i started project 8, i made up my mind not to consult the project 8 video and i did not. It was like a cherry on the cake for me as it was direct and smooth.
+One concern was that i was asked to spin up a new different server based on Ubuntu linux machine and this left and extra server isolated from project 7 as i spinned up 5 servers(nfs, db, web 1, 2 & 3) in project 7 according to instruction there.
+But overall, i was glad i got load balancer server across the line successfully. 

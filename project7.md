@@ -187,6 +187,9 @@ I logged in using the credential from the database
 
 ![image](https://user-images.githubusercontent.com/34573768/160178172-4905aa1e-9e7a-45ed-bb37-d3814ad99a9f.png)
 
-
-
 ## TAKEAWAY
+Project 7 is a very good hands on which was very engaging from the beginning to the end. It does have some brain thinking aspect which could be easily picked out with concentration and could be very difficult to detect also and i experienced the later.
+Project 7 taught to not just read up about instruction and guides but to also imagine or visualise what its going to look like and the expected result, this will help in guiding one in the right direction. Why did i said this?
+My first attempt at project 7, i was on the last step which i only need to login but i didn't know so i thought to myself that i've got it all wrong and i had start all over again and this time around, i got it over the line.
+
+I love the exposure of configuring multiple servers to achieve one goal.
